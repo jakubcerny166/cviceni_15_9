@@ -7,6 +7,23 @@
 	</head>
 	<body>
 		<p>odkaz na hlavni stranku</p>
-		
+		<li><a href="../web.html" target="_blank">ZDE</a></li>
+		<div id="big-img">   
+			<form class="container">	 
+				<h1>formular</h1>
+						<br>
+				<img src="obrazky/obr3.png" alt="obr3">
+				<label for="email"><b>Email</b></label>
+				<input type="text" name="email" placeholder="Enter email" required><br>
+				<img src="obrazky/obr1.png" alt="obr1">
+				<label for="name"><b>Name</b></label>
+				<input type="text" name="email" placeholder="Enter Name" required><br>
+				<img src="obrazky/obr2.png" alt="obr3">
+				<label for="psw"><b>Adress</b></label>
+				<input type="text" name="adress" placeholder="Enter adress" required><br>
+				<label for="psw"><b>Country</b></label>
+				<input type="text" name="country" placeholder="Enter country" required><br>
+				<br>
+				
 	</body>
 </html>
