@@ -7,38 +7,6 @@
 	</head>
 	<body>
 		<p>odkaz na hlavni stranku</p>
-		<li><a href="../web.html" target="_blank">ZDE</a></li>
-		<div id="big-img">   
-			<form class="container">	 
-				<h1>formular</h1>
-						<br>
-				<img src="obrazky/obr3.png" alt="obr3">
-				<label for="email"><b>Email</b></label>
-				<input type="text" name="email" placeholder="Enter email" required><br>
-				<img src="obrazky/obr1.png" alt="obr1">
-				<label for="name"><b>Name</b></label>
-				<input type="text" name="email" placeholder="Enter Name" required><br>
-				<img src="obrazky/obr2.png" alt="obr3">
-				<label for="psw"><b>Adress</b></label>
-				<input type="text" name="adress" placeholder="Enter adress" required><br>
-				<label for="psw"><b>Country</b></label>
-				<input type="text" name="country" placeholder="Enter country" required><br>
-				<br>
-						 <input type="radio" id="muz" name="fav_language" value="muz">
- 						 <label for="muz">odesilat reklamni letaky na email</label>
-						<br>
- 						 <input type="radio" id="zena" name="fav_language" value="zena">
- 						 <label for="zena">neodesilat reklamni letaky na email</label>
-				<br><br><br>
-				
-				<button type="submit" class="btn">Potrvdit</button>
-			</form>
-		</div>
 		
-		<p>
-			Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus rhoncus. Donec vitae arcu. 
-			Aenean placerat. Curabitur bibendum justo non orci. 
-			Maecenas aliquet accumsan leo. Duis viverra diam non justo. Nullam sit amet magna in magna gravida vehicula.
-			</p> 
 	</body>
 </html>
